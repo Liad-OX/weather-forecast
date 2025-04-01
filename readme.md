@@ -33,7 +33,7 @@ A simple and lightweight Python utility that allows you to fetch current weather
 Clone the repository:
 
     git clone https://github.com/Liad-OX/weather-forecast.git
-    cd weather-forecast-utility
+    cd weather-forecast
 
 Install dependencies:
 
@@ -75,7 +75,7 @@ Direct API key injection without `.env`:
 
 ## 🛠 Available Weather Data
 
-The utility provides a JSON response including:
+The  provides a JSON response including:
 
 - Weather description
 - Current temperature
@@ -91,7 +91,7 @@ The utility provides a JSON response including:
 
 ## 🤝 Contributing
 
-Feel free to open issues or submit pull requests to improve the utility.
+Feel free to open issues or submit pull requests to improve the .
 
 ---
 
