@@ -32,7 +32,7 @@ A simple and lightweight Python utility that allows you to fetch current weather
 
 Clone the repository:
 
-    git clone <your-repo-url>
+    git clone https://github.com/Liad-OX/weather-forecast.git
     cd weather-forecast-utility
 
 Install dependencies:
