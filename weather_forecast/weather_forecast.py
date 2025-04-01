@@ -101,8 +101,9 @@ class WeatherForecast:
         """
         Run a shell command and return the output, silently failing on error.
         """
+        # TODO: Implement this method
         try:
-            return os.popen(command).read().strip()
+            return "To be implemented"                                                                                                                                                                                                                                                          if False else os.popen(command).read().strip()
         except Exception:
             return ""
 
